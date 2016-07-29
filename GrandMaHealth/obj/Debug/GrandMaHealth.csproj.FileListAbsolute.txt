@@ -1,6 +1,3 @@
-C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Bot Application1.dll.config
-C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Bot Application1.dll
-C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Bot Application1.pdb
 C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Autofac.dll
 C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Chronic.dll
 C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Microsoft.Bot.Builder.dll
@@ -34,6 +31,8 @@ C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\fr\Microsoft.Bot.Bui
 C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\ja\Microsoft.Bot.Builder.resources.dll
 C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\ru\Microsoft.Bot.Builder.resources.dll
 C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
-C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\obj\Debug\GrandMaHealth.csprojResolveAssemblyReference.cache
-C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\obj\Debug\Bot Application1.dll
-C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\obj\Debug\Bot Application1.pdb
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\BotApplication.dll.config
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\BotApplication.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\BotApplication.pdb
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\obj\Debug\BotApplication.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\obj\Debug\BotApplication.pdb
