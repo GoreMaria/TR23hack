@@ -1,0 +1,39 @@
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Bot Application1.dll.config
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Bot Application1.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Bot Application1.pdb
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Autofac.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Chronic.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Microsoft.Bot.Builder.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Microsoft.Bot.Connector.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Newtonsoft.Json.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\System.Net.Http.Formatting.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\System.Web.Http.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\System.Web.Http.WebHost.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Autofac.xml
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Microsoft.Bot.Builder.xml
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Microsoft.Bot.Connector.xml
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\Newtonsoft.Json.xml
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\System.Net.Http.Formatting.xml
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\System.Web.Http.xml
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\System.Web.Http.WebHost.xml
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\obj\Debug\GrandMaHealth.csprojResolveAssemblyReference.cache
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\obj\Debug\Bot Application1.dll
+C:\Users\magore\Documents\GitHub\TR23hack\GrandMaHealth\obj\Debug\Bot Application1.pdb
